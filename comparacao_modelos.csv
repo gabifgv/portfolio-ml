@@ -1,0 +1,4 @@
+Método,R²,AIC,Variáveis,Lista de variáveis
+Forward,0.8227,1163.23,4,"['TEMPOCASA', 'cargoDIRETOR', 'cargoGERENTE', 'IDADE']"
+Backward,0.8227,1163.23,4,"['IDADE', 'TEMPOCASA', 'cargoDIRETOR', 'cargoGERENTE']"
+Stepwise,0.6907,1201.19,1,['TEMPOCASA']
